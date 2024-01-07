@@ -44,7 +44,7 @@ awards:
   - title: ESarDet An Efficient SAR Ship Detection Method Based on Context Information and Large Effective Receptive Field
     url: https://www.mdpi.com/2072-4292/15/12/3018
     date: '2023-6-25'
-    awarder: Yimin Zhang, **Chuxuan Chen**
+    awarder: Yimin Zhang, Chuxuan Chen
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Blockchain Fundamentals
