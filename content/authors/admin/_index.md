@@ -61,10 +61,6 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-publications:
-  - name: English
-    percent: 100
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -99,13 +95,9 @@ skills:
         percent: 80
         icon: camera
 
-languages:
+pub:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -137,6 +129,14 @@ awards:
     icon: datacamp
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
+languages:
+  - name: English
+    percent: 100
+  - name: Chinese
+    percent: 75
+  - name: Portuguese
+    percent: 25
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I  (Yontao Yu)[https://scholar.google.cz/citations?user=sY1AFdAAAAAJ&hl=zh-CN] 959452
