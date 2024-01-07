@@ -33,10 +33,6 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-  - block: publication
-    content:
-      title: Publication
-      username: admin
   - block: awards
     content:
       title: Awards

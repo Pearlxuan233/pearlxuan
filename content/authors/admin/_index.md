@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chuxuan 2 Chen
+title: Chuxuan Chen
 
 
 
@@ -94,10 +94,6 @@ skills:
         description: ''
         percent: 80
         icon: camera
-
-pub:
-  - name: English
-    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
