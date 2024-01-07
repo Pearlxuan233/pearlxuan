@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chuxuan Chen
+title: Chuxuan 2 Chen
 
 
 
@@ -138,5 +138,4 @@ languages:
   - name: Portuguese
     percent: 25
 ---
-
 I  (Yontao Yu)[https://scholar.google.cz/citations?user=sY1AFdAAAAAJ&hl=zh-CN] 959452
