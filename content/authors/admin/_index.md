@@ -41,7 +41,7 @@ profiles:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: ESarDet\: An Efficient SAR Ship Detection Method Based on Context Information and Large Effective Receptive Field
+  - title: ESarDet An Efficient SAR Ship Detection Method Based on Context Information and Large Effective Receptive Field
     url: https://www.mdpi.com/2072-4292/15/12/3018
     date: '2023-6-25'
     awarder: Yimin Zhang, **Chuxuan Chen**
