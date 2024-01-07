@@ -1,9 +1,8 @@
 ---
 # Display name
-title: 吳健雄
+title: Chuxuan Chen
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -94,6 +93,10 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+publications:
+  - name: English
+    percent: 100
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
